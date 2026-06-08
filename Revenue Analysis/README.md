@@ -25,6 +25,7 @@
 * revenue_analysis.sql
 * revenue_analysis_output.png
 * category_revenue_chart.png
+* category_revenue_PieChart.png
 
 ## نتایج کلیدی
 
