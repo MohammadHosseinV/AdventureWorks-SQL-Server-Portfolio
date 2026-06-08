@@ -36,8 +36,10 @@
 ## فایل‌های موجود
 
 * sales_analysis.sql
-* sales_analysis_output.png
-* yearly_sales_chart.png
+* Mothly_Sales_Output.png
+* Monthly_Sales_Chart.png
+* Annual_Sales_Output.png
+* Annual_Sales_Chart.png
 
 ## نتایج کلیدی
 
