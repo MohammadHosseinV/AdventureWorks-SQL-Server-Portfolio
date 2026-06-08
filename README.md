@@ -43,7 +43,7 @@ AdventureWorks2019
 
 ## Sample Outputs
 
-Screenshots and charts are available in the `/docs` directory.
+Screenshots and charts are located in their respective folders for each section.
 
 ## Author
 
