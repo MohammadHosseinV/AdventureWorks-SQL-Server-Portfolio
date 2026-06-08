@@ -7,8 +7,6 @@ Window Function ها یکی از مهم‌ترین قابلیت‌های SQL Ser
 ## مفاهیم استفاده‌شده
 
 * RANK()
-* ROW_NUMBER()
-* DENSE_RANK()
 * LAG()
 * LEAD()
 * OVER()
