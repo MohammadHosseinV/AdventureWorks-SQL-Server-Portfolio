@@ -42,4 +42,4 @@ AdventureWorks2019
 ![Database Diagram](schema/adventureworks_erd.png)
 ## خروجی‌ها
 
-نمونه خروجی‌ها و نمودارها در پوشه docs قرار دارند.
+نمونه خروجی‌ها و نمودارها در پوشه مربوط به هر بخش قرار دارند.
