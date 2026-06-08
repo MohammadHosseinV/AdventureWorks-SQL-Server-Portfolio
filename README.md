@@ -39,6 +39,8 @@ Basic indexing and query optimization examples.
 
 AdventureWorks2019
 
+![Database Diagram](schema/adventureworks_erd.png)
+
 ## Sample Outputs
 
 Screenshots and charts are available in the `/docs` directory.
