@@ -38,6 +38,7 @@
 ## پایگاه داده
 
 AdventureWorks2019
+
 ![Database Diagram](schema/adventureworks_erd.png)
 ## خروجی‌ها
 
