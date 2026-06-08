@@ -38,7 +38,7 @@
 ## پایگاه داده
 
 AdventureWorks2019
-
+![Database Diagram](schema/adventureworks_erd.png)
 ## خروجی‌ها
 
 نمونه خروجی‌ها و نمودارها در پوشه docs قرار دارند.
