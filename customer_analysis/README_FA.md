@@ -22,7 +22,9 @@
 ## فایل‌ها
 
 * customer_analysis.sql
-* customer_analysis_output.png
+* number_of_orders_output.png
+* one_order_output.png
+* top_Customers _output.png
 * customer_ranking_chart.png
 
 ## نتایج کلیدی
