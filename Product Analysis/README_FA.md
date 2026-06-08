@@ -22,9 +22,10 @@
 ## فایل‌ها
 
 * product_analysis.sql
-* product_analysis_output.png
-* top_products_chart.png
-
+* Best_Selling Products_Output.png
+* Revenue_Per_Product_Output.png
+* Unsold_Products_Output.png
+* Best_Selling_Products_Chart.png
 ## نتایج کلیدی
 
 * محصولات پرفروش
