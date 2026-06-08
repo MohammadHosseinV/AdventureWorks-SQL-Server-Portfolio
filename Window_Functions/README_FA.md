@@ -30,6 +30,9 @@ Window Function ها یکی از مهم‌ترین قابلیت‌های SQL Ser
 * ranking.sql
 * running_totals.sql
 * lag_lead.sql
+* ranking_output.png
+* running-totals.png
+
 
 ## اهمیت
 
